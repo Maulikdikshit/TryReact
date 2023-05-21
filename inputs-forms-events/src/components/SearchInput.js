@@ -2,10 +2,10 @@ import React from 'react';
 
 class SearchInput extends React.Component{
 
-    constructor(){
-        super();
-        // this.onFormSubmit = this.onFormSubmit.bind(this); First way of binding this(class object)
-    }
+    // constructor(){
+    //     super();
+    //     this.onFormSubmit = this.onFormSubmit.bind(this); First way of binding this(class object)
+    // }
 
     state={entry:''};
 
